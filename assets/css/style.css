@@ -4,6 +4,7 @@
     margin: 0;
 }
 
+/* Set background color */
 body {
     background-color: #d9dcd6;
 }
@@ -20,6 +21,7 @@ h1 {
     font-size: 48px;
 }
 
+/* Used to effect the letters in the h1 */
 .seo {
     color: #d9dcd6;
 }
@@ -38,6 +40,7 @@ li {
     margin-left: 25px;
 }
 
+/* Links */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -47,6 +50,7 @@ p {
     font-size: 16px;
 }
 
+/* Main picture at top of page */
 .hero {
     height: 800px;
     width: 100%;
@@ -56,16 +60,19 @@ p {
     background-position: center;
 }
 
+/* Description for img to be left */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* Description for img to be right */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* The side bar to the right */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -77,6 +84,7 @@ p {
     background-color: #2589bd;
 }
 
+/* Effecting all of the elements in the side bar to the right */
 .benefit-support {
     margin-bottom: 32px;
     color: #ffffff;
@@ -87,18 +95,21 @@ h3 {
     text-align: center;
 }
 
+/* Effects all images in the side bar to the right */
 .benefit-support img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* Effects the main portion under the large image */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Effects all of the content in the main section under big image */
 .content-support {
     margin-bottom: 20px;
     padding: 50px;
@@ -108,6 +119,7 @@ h3 {
     color: #ffffff;
 }
 
+/* Effects all the images in the content under the big image */
 .content-support img {
     max-height: 200px;
 }

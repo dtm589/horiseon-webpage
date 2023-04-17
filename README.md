@@ -2,6 +2,8 @@
 
 Horiseon is a website that teaches people about the web. Specifically about search engine optimization, online reputation management, and social media marketing.
 
+<img src="assets\images\Capture.PNG" alt="Picture of finished website">
+
 ## Installation
 
 No istallation needed. Head on over to the GitHub pages to visit the site!
